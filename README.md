@@ -1,5 +1,5 @@
 # syntax
-*COMPSCI 399 Project 10 (Extended note-taking app for programming students)*
+*COMPSCI 399 Project 10 (Extended note-taking app for programming students)* 
 
 **syntax** is a multi-platform note-taking application designed specifically for programming students. In order to meet the needs of its target audience, the application supports writing, compiling, and executing code. It also contains many additional note-taking features, including searchable code snippets, drawing & stylus support, exportable notes, image upload, Youtube video embeds, and collaborative note creation.
 
